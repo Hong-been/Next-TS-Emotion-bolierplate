@@ -1,18 +1,17 @@
 {
-  "name": "calulate-trans-fee",
+  "name": "your-projects",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "npx lint src/**",
+    "tsc": "tsc --project tsconfig.json"
   },
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@emotion/styled": "^11.10.4",
-    "@mui/icons-material": "^5.10.3",
-    "@mui/material": "^5.10.4",
     "next": "12.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"

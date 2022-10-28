@@ -19,7 +19,6 @@ export const GlobalStyle = () => (
 				font-size: 16px;
 				scroll-behavior: smooth;
 				width: 100%;
-				overflow-x: hidden;
 			}
 
 			div,

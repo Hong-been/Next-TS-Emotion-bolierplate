@@ -22,9 +22,6 @@ const theme = {
 		white: "#ffffff",
 		black: "#000000",
 	},
-	zIndices: {
-		modal: 100,
-	},
 } as const;
 
 export type Theme = typeof theme;
