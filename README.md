@@ -1,5 +1,5 @@
 ## Next + TS + Emotion + MUI Boilerplate
 
-It allows the Quick Development for any charming ideas ✨
+It gives you starting quick development.
 
 - with small eslint rules (`.eslintrc.js`)
