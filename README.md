@@ -2,4 +2,4 @@
 
 It gives you starting quick development.
 
-- with small eslint rules (`.eslintrc.js`)
+- with some eslint rules (`.eslintrc.js`)
