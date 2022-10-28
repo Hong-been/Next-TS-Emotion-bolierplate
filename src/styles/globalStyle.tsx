@@ -1,9 +1,9 @@
-import {Global, css} from "@emotion/react";
+import { Global, css } from "@emotion/react";
 import reset from "emotion-reset";
 
-export const GlobalStyle = () => (
-	<Global
-		styles={css`
+const GlobalStyle = () => (
+  <Global
+    styles={css`
 			${reset}
 
 			* {
@@ -48,5 +48,7 @@ export const GlobalStyle = () => (
 				}
 			}
 		`}
-	/>
+  />
 );
+
+export default GlobalStyle
